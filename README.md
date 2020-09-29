@@ -1,2 +1,23 @@
-# Lily58-Acrylic-Case
-Lily58 case inspired by the Arisu acrylic case created by FateNozomi.
+# Lily58 Pro Acrylic Case
+
+This case was inspired by [FateNozomi](https://github.com/FateNozomi). The case was not designed originally for the use of Ponoko. Before uploading my designs, I figured I should make it Ponoko ready.
+ Disclaimer: Keyboard in photos were not cut from Ponoko. Use these files at your own risk.  
+
+![Above](https://i.imgur.com/5u8Z2vP.jpg)
+![Side](https://i.imgur.com/3TBSXVp.jpg)
+![Outside](https://i.imgur.com/feSbqbO.jpg)
+
+## Fabrication
+
+- Upload the .eps file to Ponoko and 3mm acrylic in your choice of acrylic. Mine is Clear Matte Acrylic.
+
+## Assembly
+
+#### For Low Profile
+
+Material | Quantity
+------------ | -------------
+M2.5 * 5mm | 20
+[M2.5 HARWIN R25-1000602 standoff](https://www.harwin.com/products/R25-1000602/) | 10
+
+This design uses M2.5 screws and standoffs. Feel free to modify the screw and standoff hole design accommodate your needs.
