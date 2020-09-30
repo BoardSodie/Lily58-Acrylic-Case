@@ -9,7 +9,7 @@ This case was inspired by [FateNozomi](https://github.com/FateNozomi). The case 
 
 ## Fabrication
 
-- Upload the .eps file to Ponoko and 3mm acrylic in your choice of acrylic. Mine is Clear Matte Acrylic.
+- Upload the .ai file to Ponoko and 3mm acrylic in your choice of acrylic. Mine is Clear Matte Acrylic.
 
 ## Assembly
 
