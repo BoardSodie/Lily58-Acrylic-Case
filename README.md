@@ -17,7 +17,7 @@ This case was inspired by [FateNozomi](https://github.com/FateNozomi). The case 
 
 Material | Quantity
 ------------ | -------------
-M2.5 * 5mm | 20
+[M2.5 * 5mm SCS2.5 screws](https://www.amazon.com/gp/product/B01H2106US/ref=ppx_yo_dt_b_asin_title_o00_s00?ie=UTF8&th=1) | 20
 [M2.5 HARWIN R25-1000602 standoff](https://www.harwin.com/products/R25-1000602/) | 10
 
 This design uses M2.5 screws and standoffs. Feel free to modify the screw and standoff hole design accommodate your needs.
