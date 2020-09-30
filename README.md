@@ -13,8 +13,6 @@ This case was inspired by [FateNozomi](https://github.com/FateNozomi). The case 
 
 ## Assembly
 
-#### For Low Profile
-
 Material | Quantity
 ------------ | -------------
 [M2.5 * 5mm SCS2.5 screws](https://www.amazon.com/gp/product/B01H2106US/ref=ppx_yo_dt_b_asin_title_o00_s00?ie=UTF8&th=1) | 20
