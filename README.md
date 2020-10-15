@@ -1,6 +1,6 @@
 # Lily58 Pro Acrylic Case
 
-This case was inspired by [FateNozomi](https://github.com/FateNozomi). The case was not designed originally for the use of Ponoko. Before uploading my designs, I figured I should make it Ponoko ready.
+This case was inspired by [FateNozomi](https://github.com/FateNozomi). The case was not designed originally for the use of Ponoko, and I reused some parts from my original kit for the oled cover. Before uploading my designs, I figured I should make it Ponoko ready.
  Disclaimer: Keyboard in photos were not cut from Ponoko. Use these files at your own risk. OLED standoffs in the pictures are from the Lily58 kit I purchased.
 
 ![Above](https://i.imgur.com/5u8Z2vP.jpg)
