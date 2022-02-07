@@ -3,6 +3,8 @@
 This case was inspired by [FateNozomi](https://github.com/FateNozomi). The case was not designed originally for the use of Ponoko, and I reused some parts from my original kit for the oled cover. Before uploading my designs, I figured I should make it Ponoko ready.
  Disclaimer: Keyboard in photos were not cut from Ponoko. Use these files at your own risk. OLED standoffs in the pictures are from the Lily58 kit I purchased.
  
+ We humbly ask that you credit this repository whether in use private or commercial. We implore you to read and understand the license before use.
+ 
  If you want to ask me any questions, message me on reddit as I am more active there. My username is [u/blessedsodiepop](https://www.reddit.com/user/blessedsodiepop).
 
 ![Above](https://i.imgur.com/5u8Z2vP.jpg)
